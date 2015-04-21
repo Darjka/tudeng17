@@ -1,0 +1,12 @@
+promptis on nyyd kasutaja nimi ja asukoht
+total 36
+drwx------ 6 tudeng17 tudengid 4096 Apr 10 10:57 .
+drwxr-xr-x 7 root     root        0 Apr 10 10:36 ..
+-rw------- 1 tudeng17 tudengid 2008 Apr  9 13:21 .bash_history
+-rw-r--r-- 1 tudeng17 tudengid  176 Apr  8 20:13 .bash_profile
+-rw-r--r-- 1 tudeng17 tudengid  124 Apr  8 20:13 .bashrc
+drwxr-xr-x 4 tudeng17 tudengid 4096 Apr  7 15:06 bio
+-rw-r--r-- 1 tudeng17 tudengid  104 Apr  7 15:06 .ncbirc
+drwx------ 2 tudeng17 tudengid 4096 Apr  7 15:07 .ssh
+drwxr-xr-x 3 tudeng17 tudengid 4096 Apr  7 15:06 .t_coffee
+drwxr-xr-x 2 tudeng17 tudengid 4096 Apr 10 10:55 too_5
