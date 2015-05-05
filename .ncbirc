@@ -1,0 +1,7 @@
+[NCBI]
+Data=/opt/bio/ncbi/data/
+
+[mpiBLAST]
+Shared=/home/tudeng17/bio/ncbi/db/
+Local=/opt/bio/ncbi/db/
+
