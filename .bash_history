@@ -580,3 +580,15 @@ cat kodutoo_8.txt
 cat kodutoo_8.txt 
 python kodutoo_8.py 
 conda
+cd ../../state/partition1/BIek/kodutood/17
+git add -A
+ls
+git add *
+ls
+git add -A
+cd ~
+ls
+git add -A
+git add -A
+git commit -m "10. kodutoo"
+git push -u origin master

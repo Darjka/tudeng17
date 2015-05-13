@@ -9,6 +9,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+:q!
 
 # Search String History (newest to oldest):
 
@@ -27,16 +28,21 @@
 	n
 
 # File marks:
-'0  50  0  /state/partition1/BIek/kodutood/17/kodutoo_8.py
-'1  26  36  /state/partition1/BIek/kodutood/17/kodutoo_8.py
-'2  46  39  /state/partition1/BIek/kodutood/17/kodutoo_8.py
-'3  25  46  /state/partition1/BIek/kodutood/17/kodutoo_8.py
-'4  18  0  /state/partition1/BIek/kodutood/17/kodutoo_8.py
-'5  23  2  ~/kodutoo_8_2.ipynb
-'6  13  2  ~/kodutoo_8_2.ipynb
-'7  9  2  /state/partition1/BIek/kodutood/17/too_6.txt
+'0  36  0  /state/partition1/BIek/kodutood/17/too_9.py
+'1  1  0  /state/partition1/BIek/kodutood/17/too_9
+'2  50  0  /state/partition1/BIek/kodutood/17/kodutoo_8.py
+'3  26  36  /state/partition1/BIek/kodutood/17/kodutoo_8.py
+'4  46  39  /state/partition1/BIek/kodutood/17/kodutoo_8.py
+'5  25  46  /state/partition1/BIek/kodutood/17/kodutoo_8.py
+'6  18  0  /state/partition1/BIek/kodutood/17/kodutoo_8.py
+'7  23  2  ~/kodutoo_8_2.ipynb
+'8  13  2  ~/kodutoo_8_2.ipynb
+'9  9  2  /state/partition1/BIek/kodutood/17/too_6.txt
 
 # Jumplist (newest first):
+-'  36  0  /state/partition1/BIek/kodutood/17/too_9.py
+-'  1  0  /state/partition1/BIek/kodutood/17/too_9.py
+-'  1  0  /state/partition1/BIek/kodutood/17/too_9
 -'  50  0  /state/partition1/BIek/kodutood/17/kodutoo_8.py
 -'  26  4  /state/partition1/BIek/kodutood/17/kodutoo_8.py
 -'  46  4  /state/partition1/BIek/kodutood/17/kodutoo_8.py
@@ -134,9 +140,20 @@
 -'  1  0  /state/partition1/BIek/kodutood/17/too_6.txt
 -'  9  2  /state/partition1/BIek/kodutood/17/too_6.txt
 -'  1  0  /state/partition1/BIek/kodutood/17/too_6.txt
--'  9  2  /state/partition1/BIek/kodutood/17/too_6.txt
 
 # History of marks within files (newest to oldest):
+
+> /state/partition1/BIek/kodutood/17/too_9.py
+	"	36	0
+	^	36	0
+	.	2	0
+	+	1	96
+	+	16	37
+	+	17	0
+	+	2	0
+
+> /state/partition1/BIek/kodutood/17/too_9
+	"	1	0
 
 > /state/partition1/BIek/kodutood/17/kodutoo_8.py
 	"	50	0
